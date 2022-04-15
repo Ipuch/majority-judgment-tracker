@@ -1,0 +1,191 @@
+﻿candidat,rang,methode,mention_majoritaire,id,nom_institut,commanditaire,debut_enquete,fin_enquete,echantillon,population
+Valérie Pécresse,1,jugement majoritaire,Passable,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Emmanuel Macron,2,jugement majoritaire,Passable,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Arnaud Montebourg,3,jugement majoritaire,Insuffisant,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Yannick Jadot,4,jugement majoritaire,Insuffisant,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Anne Hidalgo,5,jugement majoritaire,Insuffisant,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Fabien Roussel,6,jugement majoritaire,Insuffisant,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Nicolas Dupont-Aignan,7,jugement majoritaire,Insuffisant,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Marine Le Pen,8,jugement majoritaire,Insuffisant,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Christiane Taubira,9,jugement majoritaire,Insuffisant,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Nathalie Arthaud,10,jugement majoritaire,Insuffisant,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Philippe Poutou,11,jugement majoritaire,A rejeter,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Jean-Luc Mélenchon,12,jugement majoritaire,A rejeter,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Eric Zemmour,13,jugement majoritaire,A rejeter,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Valérie Pécresse,1,condorcet,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Emmanuel Macron,2,condorcet,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Arnaud Montebourg,3,condorcet,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Yannick Jadot,4,condorcet,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Anne Hidalgo,6,condorcet,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Fabien Roussel,9,condorcet,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Nicolas Dupont-Aignan,7,condorcet,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Marine Le Pen,5,condorcet,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Christiane Taubira,8,condorcet,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Nathalie Arthaud,11,condorcet,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Philippe Poutou,12,condorcet,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Jean-Luc Mélenchon,10,condorcet,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Eric Zemmour,13,condorcet,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Valérie Pécresse,1,borda,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Emmanuel Macron,2,borda,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Arnaud Montebourg,3,borda,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Yannick Jadot,4,borda,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Anne Hidalgo,6,borda,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Fabien Roussel,10,borda,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Nicolas Dupont-Aignan,8,borda,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Marine Le Pen,5,borda,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Christiane Taubira,7,borda,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Nathalie Arthaud,12,borda,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Philippe Poutou,13,borda,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Jean-Luc Mélenchon,9,borda,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Eric Zemmour,11,borda,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Valérie Pécresse,1,vote par assentiment simulé,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Emmanuel Macron,2,vote par assentiment simulé,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Arnaud Montebourg,8,vote par assentiment simulé,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Yannick Jadot,6,vote par assentiment simulé,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Anne Hidalgo,10,vote par assentiment simulé,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Fabien Roussel,11,vote par assentiment simulé,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Nicolas Dupont-Aignan,9,vote par assentiment simulé,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Marine Le Pen,3,vote par assentiment simulé,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Christiane Taubira,5,vote par assentiment simulé,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Nathalie Arthaud,13,vote par assentiment simulé,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Philippe Poutou,12,vote par assentiment simulé,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Jean-Luc Mélenchon,7,vote par assentiment simulé,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Eric Zemmour,4,vote par assentiment simulé,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Valérie Pécresse,1,vote par note,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Emmanuel Macron,2,vote par note,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Arnaud Montebourg,5,vote par note,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Yannick Jadot,4,vote par note,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Anne Hidalgo,8,vote par note,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Fabien Roussel,11,vote par note,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Nicolas Dupont-Aignan,9,vote par note,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Marine Le Pen,3,vote par note,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Christiane Taubira,7,vote par note,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Nathalie Arthaud,12,vote par note,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Philippe Poutou,13,vote par note,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Jean-Luc Mélenchon,10,vote par note,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Eric Zemmour,6,vote par note,nan,20211208_1209_ow,Opinion Way,Mieux voter,2021-12-08,2021-12-09,960,Inscrit sur les listes électorales
+Emmanuel Macron,1,jugement majoritaire,Passable,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Valérie Pécresse,2,jugement majoritaire,Passable,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Marine Le Pen,3,jugement majoritaire,Insuffisant,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Yannick Jadot,4,jugement majoritaire,Insuffisant,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Fabien Roussel,5,jugement majoritaire,Insuffisant,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Jean Lassalle,6,jugement majoritaire,Insuffisant,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Anne Hidalgo,7,jugement majoritaire,Insuffisant,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Jean-Luc Mélenchon,8,jugement majoritaire,Insuffisant,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Nathalie Arthaud,9,jugement majoritaire,Insuffisant,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Christiane Taubira,10,jugement majoritaire,Insuffisant,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Nicolas Dupont-Aignan,11,jugement majoritaire,Insuffisant,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Philippe Poutou,12,jugement majoritaire,Insuffisant,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Eric Zemmour,13,jugement majoritaire,A rejeter,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Emmanuel Macron,1,condorcet,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Valérie Pécresse,2,condorcet,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Marine Le Pen,4,condorcet,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Yannick Jadot,3,condorcet,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Fabien Roussel,5,condorcet,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Jean Lassalle,9,condorcet,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Anne Hidalgo,8,condorcet,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Jean-Luc Mélenchon,6,condorcet,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Nathalie Arthaud,11,condorcet,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Christiane Taubira,7,condorcet,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Nicolas Dupont-Aignan,10,condorcet,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Philippe Poutou,12,condorcet,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Eric Zemmour,13,condorcet,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Emmanuel Macron,2,borda,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Valérie Pécresse,1,borda,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Marine Le Pen,4,borda,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Yannick Jadot,3,borda,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Fabien Roussel,5,borda,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Jean Lassalle,9,borda,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Anne Hidalgo,8,borda,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Jean-Luc Mélenchon,6,borda,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Nathalie Arthaud,11,borda,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Christiane Taubira,7,borda,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Nicolas Dupont-Aignan,10,borda,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Philippe Poutou,13,borda,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Eric Zemmour,12,borda,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Emmanuel Macron,1,vote par assentiment simulé,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Valérie Pécresse,2,vote par assentiment simulé,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Marine Le Pen,3,vote par assentiment simulé,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Yannick Jadot,6,vote par assentiment simulé,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Fabien Roussel,7,vote par assentiment simulé,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Jean Lassalle,11,vote par assentiment simulé,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Anne Hidalgo,10,vote par assentiment simulé,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Jean-Luc Mélenchon,4,vote par assentiment simulé,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Nathalie Arthaud,13,vote par assentiment simulé,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Christiane Taubira,8,vote par assentiment simulé,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Nicolas Dupont-Aignan,9,vote par assentiment simulé,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Philippe Poutou,12,vote par assentiment simulé,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Eric Zemmour,5,vote par assentiment simulé,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Emmanuel Macron,1,vote par note,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Valérie Pécresse,2,vote par note,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Marine Le Pen,3,vote par note,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Yannick Jadot,4,vote par note,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Fabien Roussel,5,vote par note,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Jean Lassalle,9,vote par note,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Anne Hidalgo,10,vote par note,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Jean-Luc Mélenchon,6,vote par note,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Nathalie Arthaud,12,vote par note,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Christiane Taubira,8,vote par note,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Nicolas Dupont-Aignan,11,vote par note,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Philippe Poutou,13,vote par note,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Eric Zemmour,7,vote par note,nan,20220209_0210_ow,Opinion Way,Mieux voter,2022-02-09,2022-02-10,983,Inscrit sur les listes électorales
+Emmanuel Macron,1,jugement majoritaire,Passable,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Marine Le Pen,2,jugement majoritaire,Passable,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Valérie Pécresse,3,jugement majoritaire,Passable,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Jean-Luc Mélenchon,4,jugement majoritaire,Passable,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Fabien Roussel,5,jugement majoritaire,Insuffisant,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Yannick Jadot,6,jugement majoritaire,Insuffisant,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Jean Lassalle,7,jugement majoritaire,Insuffisant,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Anne Hidalgo,8,jugement majoritaire,Insuffisant,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Nicolas Dupont-Aignan,9,jugement majoritaire,Insuffisant,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Philippe Poutou,10,jugement majoritaire,Insuffisant,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Nathalie Arthaud,11,jugement majoritaire,Insuffisant,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Eric Zemmour,12,jugement majoritaire,A rejeter,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Emmanuel Macron,1,condorcet,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Marine Le Pen,2,condorcet,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Valérie Pécresse,3,condorcet,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Jean-Luc Mélenchon,4,condorcet,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Fabien Roussel,5,condorcet,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Yannick Jadot,6,condorcet,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Jean Lassalle,7,condorcet,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Anne Hidalgo,9,condorcet,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Nicolas Dupont-Aignan,8,condorcet,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Philippe Poutou,10,condorcet,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Nathalie Arthaud,11,condorcet,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Eric Zemmour,12,condorcet,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Emmanuel Macron,1,borda,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Marine Le Pen,2,borda,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Valérie Pécresse,3,borda,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Jean-Luc Mélenchon,4,borda,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Fabien Roussel,6,borda,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Yannick Jadot,5,borda,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Jean Lassalle,7,borda,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Anne Hidalgo,9,borda,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Nicolas Dupont-Aignan,8,borda,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Philippe Poutou,11,borda,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Nathalie Arthaud,12,borda,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Eric Zemmour,10,borda,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Emmanuel Macron,1,vote par assentiment simulé,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Marine Le Pen,2,vote par assentiment simulé,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Valérie Pécresse,4,vote par assentiment simulé,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Jean-Luc Mélenchon,3,vote par assentiment simulé,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Fabien Roussel,6,vote par assentiment simulé,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Yannick Jadot,7,vote par assentiment simulé,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Jean Lassalle,8,vote par assentiment simulé,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Anne Hidalgo,11,vote par assentiment simulé,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Nicolas Dupont-Aignan,9,vote par assentiment simulé,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Philippe Poutou,10,vote par assentiment simulé,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Nathalie Arthaud,12,vote par assentiment simulé,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Eric Zemmour,5,vote par assentiment simulé,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Emmanuel Macron,1,vote par note,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Marine Le Pen,2,vote par note,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Valérie Pécresse,4,vote par note,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Jean-Luc Mélenchon,3,vote par note,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Fabien Roussel,5,vote par note,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Yannick Jadot,7,vote par note,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Jean Lassalle,6,vote par note,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Anne Hidalgo,10,vote par note,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Nicolas Dupont-Aignan,8,vote par note,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Philippe Poutou,11,vote par note,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Nathalie Arthaud,12,vote par note,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
+Eric Zemmour,9,vote par note,nan,20220330_0331_ow,Opinion Way,Mieux voter,2022-03-30,2022-03-31,1044,Inscrit sur les listes électorales
